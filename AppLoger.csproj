@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Helper.Area.AppLoger</PackageId>
+    <Authors>VOAppLoger</Authors>
+    <Company>VO</Company>
+    <Description>Calculate Areas of Geometric Shapes</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/votero27/AreasCalc.git</PackageProjectUrl>
+    <PackageTags>Areas, Calculate, Formula</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\votero\source\repos\AppLoger\AppLoger\bin\Debug\netcoreapp3.1\AppLoger.deps.json
+C:\Users\votero\source\repos\AppLoger\AppLoger\bin\Debug\netcoreapp3.1\AppLoger.dll
+C:\Users\votero\source\repos\AppLoger\AppLoger\bin\Debug\netcoreapp3.1\AppLoger.pdb
+C:\Users\votero\source\repos\AppLoger\AppLoger\obj\Debug\netcoreapp3.1\AppLoger.csprojAssemblyReference.cache
+C:\Users\votero\source\repos\AppLoger\AppLoger\obj\Debug\netcoreapp3.1\AppLoger.AssemblyInfoInputs.cache
+C:\Users\votero\source\repos\AppLoger\AppLoger\obj\Debug\netcoreapp3.1\AppLoger.AssemblyInfo.cs
+C:\Users\votero\source\repos\AppLoger\AppLoger\obj\Debug\netcoreapp3.1\AppLoger.csproj.CoreCompileInputs.cache
+C:\Users\votero\source\repos\AppLoger\AppLoger\obj\Debug\netcoreapp3.1\AppLoger.dll
+C:\Users\votero\source\repos\AppLoger\AppLoger\obj\Debug\netcoreapp3.1\AppLoger.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Helper.Area.AppLoger</id>
+    <version>1.0.0</version>
+    <authors>VOAppLoger</authors>
+    <owners>VOAppLoger</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/votero27/AreasCalc.git</projectUrl>
+    <description>Calculate Areas of Geometric Shapes</description>
+    <tags>Areas, Calculate, Formula</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\votero\source\repos\AppLoger\AppLoger\bin\Debug\netcoreapp3.1\AppLoger.dll" target="lib\netcoreapp3.1\AppLoger.dll" />
+  </files>
+</package>
